@@ -42,7 +42,7 @@ Po kliknięciu przycisku jego tekst zmienia się na "Hide data", a poniżej wyś
 
 | Jetpack Compose | Views (Java + XML) |
 |:---:|:---:|
-| <img src="scereny/Zrzut ekranu 2026-10-12 234018.png" width="280" alt="Compose widoczne"> | <img src="screeny/Zrzut ekranu 2026-10-12 234919.png" width="280" alt="Views widoczne"> |
+| <img src="screeny/Zrzut ekranu 2026-10-12 234018.png" width="280" alt="Compose widoczne"> | <img src="screeny/Zrzut ekranu 2026-10-12 234919.png" width="280" alt="Views widoczne"> |
 | *Status: dane wyświetlone* | *Status: dane wyświetlone* |
 
 ---
