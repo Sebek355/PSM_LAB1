@@ -34,7 +34,7 @@ Na ekranie widoczny jest wyłącznie przycisk z napisem "Show data".
 
 | Jetpack Compose | Views (Java + XML) |
 |:---:|:---:|
-| <img src="screenshot_compose_hidden.png" width="280" alt="Compose ukryte"> | <img src="screenshot_views_hidden.png" width="280" alt="Views ukryte"> |
+| <img src="Zrzut ekranu 2026-10-12 234000.png" width="280" alt="Compose ukryte"> | <img src="Zrzut ekranu 2026-10-12 234857.png" width="280" alt="Views ukryte"> |
 | *Status: oczekiwanie na kliknięcie* | *Status: oczekiwanie na kliknięcie* |
 
 ### Stan aktywny (Dane widoczne)
@@ -42,7 +42,7 @@ Po kliknięciu przycisku jego tekst zmienia się na "Hide data", a poniżej wyś
 
 | Jetpack Compose | Views (Java + XML) |
 |:---:|:---:|
-| <img src="screenshot_compose_visible.png" width="280" alt="Compose widoczne"> | <img src="screenshot_views_visible.png" width="280" alt="Views widoczne"> |
+| <img src="Zrzut ekranu 2026-10-12 234018.png" width="280" alt="Compose widoczne"> | <img src="Zrzut ekranu 2026-10-12 234919.png" width="280" alt="Views widoczne"> |
 | *Status: dane wyświetlone* | *Status: dane wyświetlone* |
 
 ---
